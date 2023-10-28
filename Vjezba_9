@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title> Stranica Ivan Topcic</title>
+</head>
+<body>
+<div>
+<p>Real Madrid ovo ono</p>
+<p>halo ima koga<p>
+</div>
+<p><b><span style=color:red>Dobrodošli</span></b> na moju stranicu, slobodno izađite. hvala.</p>
+<p>Ako imate pitanja, ne pitajte ili se obratite na <span style=color:red><b>ivan.topcic@hotmail.com</b></span></p>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/JCPfEkttUK4?si=dORYO8pOmfGLyIOA" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+</body>
+<footer>&copy; Ivan Topcic <ahref="https://github.com/IvanTopcic"target="_blank">github </a> &amp; Moj projekt. All rights reserved.</footer>
